@@ -12,9 +12,9 @@
 
 🤝 I wish we connect and work together!
 
-<a href="https://www.linkedin.com/in/juan-diego-bustamante-rios/" target="_blank">via LinkedIn</a> 🔗
+<a href="https://www.linkedin.com/in/juan-diego-bustamante-rios/" >via LinkedIn</a> 🔗
 
-<a href="juan.bacon.b@outlook.com" target="_blank" >via e-mail</a> 📧
+<a href="mailto:juan.bacon.b@outlook.com" >via e-mail</a> 📧
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/JuanBacon)  <img src="https://img.shields.io/github/followers/JuanBacon?label=Follow" style=" float:left, margin-right:10px" />
