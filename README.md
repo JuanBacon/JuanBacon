@@ -1,8 +1,10 @@
-# Hello there 👋
 <!--
 **JuanBacon/JuanBacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- **I am a Junior Web and Game Developer who is exploring mobile development 📱. I am also highly motivated into continuos learning :wink:**
+
+<h1 align="center">Hello there 👋, I'm Juan Diego Bustamante</h1>
+<h3 align="center">A passionate junior web and game developer from Colombia, who is exploring mobile development 📱. Also highly motivated into continuos learning :wink:</h3>
+ 
  
  🔭 I’m planning for a Indie Game development Portofolio.
  
@@ -33,6 +35,22 @@
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src = "https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF">
   <img src = "https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+  <img src = "https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+</span>
+
+### Databases
+<span>
+  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</span>
+
+### SaaS / DevOps
+<span>
+  <img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src = "https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
+  <img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </span>
 
 ### Game Development
