@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hello there 👋, I'm Juan Diego Bustamante</h1>
-<h3 align="center">A passionate junior web and game developer from Colombia, who is exploring mobile development 📱. Also highly motivated into continuos learning :wink:</h3>
+<h3 align="center">I am a junior developer passionate about web development and Videogames, I love to update myself by learning new things, I am interested in working with MERN Stack and Mobile development with Flutter.  :wink:</h3>
  
  
  🔭 I’m planning for a Indie Game development Portfolio.
