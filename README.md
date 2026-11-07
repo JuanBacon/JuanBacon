@@ -2,7 +2,7 @@
 **JuanBacon/JuanBacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hello there 👋, I'm Juan Diego Bustamante</h1>
+<h1 align="center">Hello there 👋, I'm Juan Diego AKA JuanBacon!</h1>
 <h3 align="center">I am an Automation Engineer, i built software solutions aiming for making people's lives easier and enjoyable, im also passionate about web app development and Videogames, I love to update myself by learning new things, I am interested in working with MERN Stack and Mobile development with Flutter.  :wink:</h3>
  
  
