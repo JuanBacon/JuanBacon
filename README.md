@@ -3,12 +3,12 @@
 -->
 
 <h1 align="center">Hello there 👋, I'm Juan Diego Bustamante</h1>
-<h3 align="center">I am a junior developer passionate about web development and Videogames, I love to update myself by learning new things, I am interested in working with MERN Stack and Mobile development with Flutter.  :wink:</h3>
+<h3 align="center">I am an Automation Engineer, i built software solutions aiming for making people's lives easier and enjoyable, im also passionate about web app development and Videogames, I love to update myself by learning new things, I am interested in working with MERN Stack and Mobile development with Flutter.  :wink:</h3>
  
  
  🔭 I’m planning for a Indie Game development Portfolio.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white">
  
  :books: I want to learn <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08"/><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
